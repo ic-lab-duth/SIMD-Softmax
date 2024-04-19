@@ -11,7 +11,7 @@ Also the post-synthesis RTL co-simultion of the given examples require the sc_ve
 
 This repository is organized as follows:
 
-* ```main.cpp``` includes the testbench that reads the input matrices and feed them to the GELU activation function
+* ```main.cc``` includes the testbench that reads the input matrices and feed them to the GELU activation function
 * ```gelu.h``` includes the GELU and SIMD-Softmax implementations
 * ```utils.h``` includes the max and adder trees used for the SIMD-Softmax
 * ```file_io.h``` provide utility functions to read and write python (.npy) arrays
