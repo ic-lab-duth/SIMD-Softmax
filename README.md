@@ -32,7 +32,7 @@ This repository is organized as follows:
 The architecture and performance of the SIMD-Softmax used to implement GELU activation will be presented in IEEE International Conference on Artificial Intelligence Circuits and Systems, April 2024. You can find the paper [here](https://arxiv.org/abs/2402.10118). To cite this work, please use:
 
 ```
-@inproceedings{fused-fp-dot,
+@inproceedings{simd-softmax,
 author = {Peltekis, Christodoulos and Alexandridis, Kosmas and Dimitrakopoulos, Giorgos},
 title = {Reusing Softmax Hardware Unit for GELU Computation in Transformers},
 booktitle = {6th IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)},
